@@ -1,2 +1,3 @@
+include ':camera2textureview'
 include ':app'
 rootProject.name = "CameraOpenGL"
